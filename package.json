@@ -1,0 +1,26 @@
+{
+  "name": "sdk-chat-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "twilio": "^3.29.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/younessbennaj/sdk-chat-node-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/younessbennaj/sdk-chat-node-test/issues"
+  },
+  "homepage": "https://github.com/younessbennaj/sdk-chat-node-test#readme"
+}
